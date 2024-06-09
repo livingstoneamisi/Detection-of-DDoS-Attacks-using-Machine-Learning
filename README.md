@@ -1,13 +1,10 @@
-Sure, here's the README.md file with the specified structure maintained:
-
-```markdown
 # Detection of DDoS attacks on SDN network using Machine Learning
 
 This repository contains the code and resources for detecting DDoS (Distributed Denial of Service) attacks on Software-Defined Networking (SDN) using Machine Learning techniques. The project involves the setup of a local SDN network, simulation of normal and DDoS traffic, creation of a dataset, development of machine learning models, and deployment for real-time attack detection.
 
 ## Project Overview
 
-In this project, we aim to detect DDoS attacks on an SDN network by leveraging machine learning models trained on a locally generated dataset. The key components of the project include:
+In this project, I aim to detect DDoS attacks on an SDN network by leveraging machine learning models trained on a locally generated dataset. The key components of the project include:
 
 1. **Network Setup**: A local SDN network is designed and deployed using Mininet to simulate network traffic and attacks.
 
@@ -62,6 +59,4 @@ To replicate the experiment and utilize the DDoS detection model, follow these s
 
 For detailed instructions, refer to the sections above and the provided scripts.
 
-
-```
 
